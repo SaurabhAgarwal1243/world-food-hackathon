@@ -1,0 +1,23 @@
+{
+  "name": "world-food-hackathon",
+  "version": "1.0.0",
+  "description": "world food hackathon database and server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saurabh Agarwal",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "express-session": "^1.15.6",
+    "mongodb": "^2.2.33",
+    "mongoose": "^4.12.4",
+    "morgan": "^1.9.0",
+    "passport": "^0.4.0",
+    "request": "^2.83.0"
+  }
+}
